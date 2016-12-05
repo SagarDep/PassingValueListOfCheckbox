@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_aeeaa52bc99695caa1710cfefff282222267d325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d1576254ac57bc98f0676144cb6231ccbaa489e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/gson-2.6.2_76bdc675a1d973e06b7666c033752f21f4c086b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_bc510eac5f3b801fa75aaa17ac5427db50393e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_efa5bab19e17ea98f51130cb154208313eb367c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_a40518f0c8bf98bc8f70150888280d4be4068517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_5b2e49e272c5a8385e3a3215bbee4838db62a9ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_e431c241b728eb444bc51d210f4a86d4a18ced0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_73559cce8bdf49caed31b7c0d12f310a7fb0e66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_123dbe79c52a062224f3284d0b5c053803921400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e9d5b876935d507a3d3d8685129b435daa9d8d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4668e4ea952d47aed3579f2331b5e71f7337e03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ec1bedbcea5d9a72b0883f30a830eba3e58bbb75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_482d48b419a3ccf079cc47b2726f362b8e2f7d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_7d6b751496e30921dcf80d9a867aa25e41305a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_421fc456a532cd36e7e80aa9afd84219a2d1cb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/putuguna/Documents/CheckBoxTransferData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_03959dc8e84f0560192b612265e822379e78339b.jar" />
+    </item>
+
+</items>
